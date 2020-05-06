@@ -1,3 +1,4 @@
+#! /bin/sh -f
 sed -e 's/abcde/stuvw/'
 
 
