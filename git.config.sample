@@ -1,3 +1,3 @@
 [filter "tabs-to-spaces"]
-	clean = /path/to/clean
-	smudge = /path/to/smudge
+	clean = D:/Git/git-smudge-and-clean/clean
+	smudge = D:/Git/git-smudge-and-clean/clean/smudge

@@ -1,2 +1,2 @@
-*.tabs filter=tabs-to-spaces
+*.txt filter=tabs-to-spaces
 

@@ -1,2 +1,2 @@
-ruby -e '$stdout.puts $stdin.read.gsub(/\t/, " ")'
+sed -e 's/12345/98765/'
 
